@@ -1,0 +1,7 @@
+echo "# Test_SOL_netw" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Defiarst/Test_SOL_netw.git
+git push -u origin main
